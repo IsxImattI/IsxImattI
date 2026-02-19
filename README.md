@@ -3,8 +3,11 @@
 
 ---
 
-## 📊 GitHub Stats
-![Matej's GitHub stats](https://github-readme-stats.vercel.app/api?username=IsxImattI&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight)
+## 📊 GitHub Stats & Streak
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=IsxImattI&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight" alt="Matej's GitHub stats" height="180" />
+  <img src="https://streak-stats.demolab.com/?user=IsxImattI&theme=tokyonight" alt="GitHub Streak" height="180" />
+</p>
 
 ---
 
